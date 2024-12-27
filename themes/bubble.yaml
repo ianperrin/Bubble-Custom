@@ -2,9 +2,10 @@
 
 # Noctis from aFFekopp was my initial theme (thanks dude!)
 # Bubble is a modified one and is maintained by Clooos
+# Bubble-Custom is a modified version of Bubble and is maintained by ianperrin
 # Added a split between light and dark themes for automatic change 
 
-Bubble:
+Bubble-Custom:
   modes:
     dark:
       # Fonts
@@ -280,7 +281,7 @@ Bubble:
       mini-media-player-base-color: "var(--text-color)"
       mini-media-player-accent-color: "var(--accent-color)"
 
-  card-mod-theme: Bubble
+  card-mod-theme: Bubble-Custom
 
   card-mod-root-yaml: |
     .: |
